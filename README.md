@@ -72,5 +72,5 @@ Para que o professor possa acompanhar e orientar o andamento do projeto, **adici
 ### Como fazer:
 1. Vá até a aba **"Settings"** do seu repositório.
 2. Clique em **"Collaborators"** no menu lateral.
-3. Digite o nome de usuário: `igorbarcosta`
+3. Digite o nome de usuário: `igormago`
 4. Clique em **"Add collaborator"** e confirme.
